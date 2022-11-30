@@ -7,7 +7,7 @@ public class Main {
         int a = 20;
         int b = 23;
 
-        int c = a+b;
+        int c = a+b+38;
         System.out.println(c+1);
     }
 }
